@@ -1,0 +1,82 @@
+html{
+    font-size: 22px;
+}
+
+table {
+    background-color : #F0F0E9;
+    width: 1135px;
+    font-family:Verdana, Geneva, sans-serif; 
+    font-size:0.6em;
+    margin-left: 100px;
+    margin-right:-30px;
+    border-spacing: 0px;
+    padding-bottom: 10px;
+    
+}
+#Y{
+    border:1px solid white;
+    padding-bottom: 0px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+#header{
+    background-color:rgb(255, 94, 0);
+    vertical-align: middle;
+}
+tbody{
+    line-height: 30px;
+    
+}
+
+th{
+    text-align: left;
+    height: 20px;
+}
+.navBar{
+    font-size: 0.9em ;
+    font-weight: 300;
+    text-align:left;
+}
+#login{
+    text-align: right;
+    padding-right: 7px;
+}
+
+.index{
+    color : gray;
+}
+
+.underline{
+    
+    font-size: 0.8em;
+    color : gray;
+    line-height: 5px;
+    margin-left: 30px;
+}
+td{
+    margin-top: 5px;
+}
+
+.nine{
+    padding-left:7px;
+}
+
+#more{
+    padding-left:30px;
+    padding-top: 15px; 
+    color : gray; 
+}
+
+.gray{
+    color:gray;
+}
+
+hr{
+    text-align: right;  
+}
+
+tfoot{
+    text-align:center;
+    
+}
