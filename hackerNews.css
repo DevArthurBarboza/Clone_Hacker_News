@@ -3,7 +3,7 @@ html{
 }
 
 table {
-    background-color : #F0F0E9;
+    background-color :rgb(246, 246, 239); 
     width: 1135px;
     font-family:Verdana, Geneva, sans-serif; 
     font-size:0.6em;
@@ -58,6 +58,10 @@ td{
     margin-top: 5px;
 }
 
+td:hover{
+    cursor:pointer;
+}
+
 .nine{
     padding-left:7px;
 }
@@ -80,3 +84,8 @@ tfoot{
     text-align:center;
     
 }
+
+.underline:hover{
+    text-decoration:underline;
+}
+
